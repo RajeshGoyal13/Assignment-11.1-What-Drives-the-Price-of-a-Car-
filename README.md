@@ -1,5 +1,5 @@
 # Assignment-11.1-What-Drives-the-Price-of-a-Car
-Link for python notebook prompt_II.ipynb
+Link for python notebook prompt_II.ipynb (https://github.com/RajeshGoyal13/Assignment-11.1-What-Drives-the-Price-of-a-Car-/blob/main/prompt_II.ipynb)
 
 ## Business Understanding:
 The goal of this assignent is to find what are the factors which determine the price of the car. Based on the historical data of car purchase, one need to create a model which will help in finding out the factors which play critical role in the price.
